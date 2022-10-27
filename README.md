@@ -118,8 +118,7 @@ Adjuntar archivoNinguno archivo selec.
 # Completa el ejercicio aquí
 l = cadena[::-1].split(',')
 print( l[1] + " ha sacado un " + l[0] + " de nota")
-[19:51, 26/10/2022] +34 684 28 90 48: 2
-[19:51, 26/10/2022] +34 684 28 90 48: numero_magico = 12345679
+ numero_magico = 12345679
 numero_usuario = int( input( "Introduce un entero (1-9): "))
 numero_usuario *= 9
 numero_magico *= numero_usuario
